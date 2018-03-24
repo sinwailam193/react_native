@@ -6,7 +6,8 @@
         "navigator": true,
         "document": true,
         "location": true,
-        "System": true
+        "System": true,
+        "__DEV__": true
     },
     "env": {
         "jquery": true
